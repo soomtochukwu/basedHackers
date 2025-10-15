@@ -2,7 +2,7 @@ import React from 'react'
 
 const page = () => {
   return (
-    <div>Based Hackers Demo</div>
+    <div className='bg-white h-screen w-screen text-black'>Based Hackers Demo</div>
   )
 }
 
